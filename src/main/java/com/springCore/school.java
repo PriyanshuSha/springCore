@@ -6,7 +6,7 @@ public class school {
 	public schoolClass getSchCl() {
 		return Class;
 	}
-
+       //dependency injection
 	public void setSchCl(schoolClass schCl) {
 		this.Class = schCl;
 	}
